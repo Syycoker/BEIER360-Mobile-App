@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BEIER360"
+             x:Class="BEIER360.HomePage">
+    <ContentPage.BindingContext>
+        <local:MainViewModel/>
+    </ContentPage.BindingContext>
+    <StackLayout>
+        <Label x:Name="maleLabel" Text="Change Amount of Male Users" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+        <Entry x:Name ="maleTextBox" Keyboard="Numeric"></Entry>
+
+        <Label x:Name ="femaleLabel" Text="Change Amount of Female Users" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+        <Entry x:Name="femaleTextBox" Keyboard="Numeric"></Entry>
+
+        <Button Text="Calculate" Clicked="Calculate_Button"></Button>
+            
+        </StackLayout>
+
+</ContentPage>

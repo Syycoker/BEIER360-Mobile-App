@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BEIER360.OutputPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+                <Label Text="The user is Female" FontSize="Large" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+            </StackLayout>
+            
+            <StackLayout VerticalOptions="Center">
+                <Button Text="Change Metrics" Clicked="UserChange_OnClicked"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

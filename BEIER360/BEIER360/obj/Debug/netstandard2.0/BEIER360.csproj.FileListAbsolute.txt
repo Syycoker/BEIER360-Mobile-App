@@ -1,0 +1,17 @@
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\bin\Debug\netstandard2.0\BEIER360.deps.json
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\bin\Debug\netstandard2.0\BEIER360.dll
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\bin\Debug\netstandard2.0\ref\BEIER360.dll
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\bin\Debug\netstandard2.0\BEIER360.pdb
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\obj\Debug\netstandard2.0\BEIER360.csprojAssemblyReference.cache
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\obj\Debug\netstandard2.0\OutputPage.xaml.g.cs
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\obj\Debug\netstandard2.0\BEIER360.AssemblyInfoInputs.cache
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\obj\Debug\netstandard2.0\BEIER360.AssemblyInfo.cs
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\obj\Debug\netstandard2.0\BEIER360.csproj.CoreCompileInputs.cache
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\obj\Debug\netstandard2.0\BEIER360.dll
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\obj\Debug\netstandard2.0\ref\BEIER360.dll
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\obj\Debug\netstandard2.0\BEIER360.pdb
+C:\Users\coker\source\repos\BEIER360\BEIER360\BEIER360\obj\Debug\netstandard2.0\OutputPageExt.xaml.g.cs

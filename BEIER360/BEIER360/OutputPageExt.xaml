@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BEIER360"
+             x:Class="BEIER360.OutputPageExt">
+    <ContentPage.BindingContext>
+        <local:MainViewModel/>
+    </ContentPage.BindingContext>
+    
+    <StackLayout>
+        <Label Text="The percentage of the User being Male is (%): " FontSize="Small" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+        <Label x:Name="maleLabelOutput" Text="{Binding POMDisplay}" FontSize="Medium" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+
+        <Label Text="The percentage of the User being Female is (%): " FontSize="Small" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+        <Label x:Name ="femaleLabelOutput" Text="{Binding POWDisplay}" FontSize="Medium" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+
+        <Button Text="Change Metrics" Clicked="UserChange_OnClicked"/>
+    </StackLayout>
+    
+</ContentPage>
